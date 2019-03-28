@@ -2,3 +2,4 @@ include ':sample', ':base-adapter-library', ':baseadapter-recyclerview'
 //commit 01
 //commit 03
 //commit 04
+//commit 05
